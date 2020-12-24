@@ -1,0 +1,25 @@
+{
+    "name": "parrot-bomberman-helper",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-turn": "github:felixtsu/pxt-turn#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "bmhelper.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.2.16",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
