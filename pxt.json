@@ -3,7 +3,7 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "pxt-turn": "github:felixtsu/pxt-turn#master"
+        "pxt-turn": "github:felixtsu/pxt-turn#v0.1.1"
     },
     "files": [
         "main.blocks",
