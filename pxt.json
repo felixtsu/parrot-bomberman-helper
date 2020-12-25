@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "pxt-turn": "github:felixtsu/pxt-turn#v0.1.1"
+        "pxt-turn": "github:felixtsu/pxt-turn#v0.1.1",
+        "arcade-sprite-movement": "github:felixtsu/arcade-sprite-movement#v0.0.1"
     },
     "files": [
         "main.blocks",
